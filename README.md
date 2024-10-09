@@ -1,4 +1,4 @@
-# dsci-100-project_template
+# DSCI100 Project- PLAICraft
 Template project repository for DSCI-100
 
-Test
+![Alt text](images/PLAICraft.jpg)
